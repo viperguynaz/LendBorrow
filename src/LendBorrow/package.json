@@ -1,0 +1,14 @@
+{
+  "name": "lendborrow",
+  "version": "1.0.0",
+  "scripts": {
+  },
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "bootstrap": "v4.0.0-alpha.3"
+  },
+  "devDependencies": {
+
+  }
+}
