@@ -27,6 +27,16 @@ namespace LendBorrow.Controllers
             return View();
         }
 
+        public IActionResult Lender()
+        {
+            return View();
+        }
+
+        public IActionResult Borrow()
+        {
+            return View();
+        }
+
         public IActionResult Error()
         {
             return View();
